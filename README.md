@@ -1,1 +1,1 @@
-# baw_static_web
+# Hosting a static website on aws
